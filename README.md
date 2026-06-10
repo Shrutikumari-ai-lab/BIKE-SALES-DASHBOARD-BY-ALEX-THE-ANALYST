@@ -52,9 +52,7 @@ Pivot Tables
 Charts (Bar, Line, Pie)
 Slicers
 Conditional Formatting
-📸 Dashboard Preview
-
-(Add screenshot of your Excel dashboard here)
+📸 Dashboard Previe
 
 🚀 How to Use This Project
 Download the Excel file from this repository
